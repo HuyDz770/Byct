@@ -1,0 +1,5 @@
+{
+  "name": "Secure App Downloader",
+  "description": "App download page demonstrating anti-hotlink and secure URL techniques.",
+  "requestFramePermissions": []
+}
